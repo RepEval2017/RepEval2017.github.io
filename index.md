@@ -18,16 +18,49 @@ This workshop aims foster discussion of these issues, and to support the search 
 
 Organizers
 ---------
-Sam Bowman
-Yoav Goldberg
-Felix Hill
-Angeliki Lazaridou
-Omer Levy
-Roi Reichart
-Anders S{\o}gaard
+Sam Bowman\\
+Yoav Goldberg\\
+Felix Hill\\
+Angeliki Lazaridou\\
+Omer Levy\\
+Roi Reichart\\
+Anders Sogaard\\
 
 Programme Committee
 ---------
+Omri Abend\\
+Mohit Bansal\\
+Jose Camacho Collados\\
+Billy Chiu\\
+Georgiana Dinu\\
+Allyson Ettinger\\
+Sahar Ghannay\\
+Anna Gladkova\\
+Mohit Iyyer\\
+Douwe Kiela\\
+Arne Kohn\\
+Andras Kornai\\
+Tal Linzen\\
+Farhana Liza\\
+Oren Melamud\\
+Dmitrijs Milajevs\\
+Diarmuid O’Seaghdha\\
+Denis Paperno\\
+Ellie Pavlick\\
+Marek Rei\\
+Laura Rimell\\
+Naomi Saphra\\
+Roy Schwartz\\
+Patrice Seyed\\
+Gabriel Stanovsky\\
+Pontus Stenetorp\\
+Karl Stratos\\
+Yulia Tsvetkov\\
+Peter Turney\\
+Ivan Vulic\\
+Torsten Zesch\\
+
+
 
 {% comment %}
 * October 2016: Our work <a href="http://clic.cimec.unitn.it/marco/publications/lazaridou-et-al-chimeras-cogsci.pdf">Multimodal word meaning induction from minimal exposure to natural text</a> with Marco Marelli and Marco Baroni got accepted at Cognitive Science Journal.
