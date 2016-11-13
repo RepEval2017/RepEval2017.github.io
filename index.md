@@ -3,9 +3,9 @@ layout: default
 ---
 
 <h1 id="about">RepEval 2017: The Second Workshop on Evaluating Vector Space Representations for NLP</h1>
+<h2>Co-located with EMNLP 2017</h2>
 
-
-Overview
+Description
 ---------
 This workshop deals with the evaluation of general-purpose vector representations for linguistic units (morphemes, words, phrases, sentences, etc). What distinguishes these representations (or \textit{embeddings}) is that they are not trained with a specific application in mind, but rather to capture broadly useful features of the represented units. Another way to view their usage is through the lens of transfer learning: The embeddings are trained with one objective, but applied on others. 
 
@@ -18,13 +18,13 @@ This workshop aims foster discussion of these issues, and to support the search 
 
 Organizers
 ---------
-Sam Bowman\\
-Yoav Goldberg\\
-Felix Hill\\
-Angeliki Lazaridou\\
-Omer Levy\\
-Roi Reichart\\
-Anders Søgaard
+[Sam Bowman](https://www.nyu.edu/projects/bowman/)\\
+[Yoav Goldberg](https://www.cs.bgu.ac.il/~yoavg/uni/)\\
+[Felix Hill](http://www.cl.cam.ac.uk/~fh295/)\\
+[Angeliki Lazaridou](http://angelikilazaridou.github.io/)\\
+[Omer Levy](https://levyomer.wordpress.com/)\\
+[Roi Reichart](http://ie.technion.ac.il/~roiri/)\\
+[Anders Søgaard](http://cst.dk/anders/)
 
 Programme Committee
 ---------
