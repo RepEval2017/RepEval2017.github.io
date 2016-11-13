@@ -24,7 +24,7 @@ Felix Hill\\
 Angeliki Lazaridou\\
 Omer Levy\\
 Roi Reichart\\
-Anders Sogaard\\
+Anders Søgaard
 
 Programme Committee
 ---------
