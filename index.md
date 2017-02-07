@@ -1,10 +1,12 @@
 ---
 layout: page
 title: About
+navigation_weight: 1
 ---
 
-<h1 id="about">RepEval 2017: The Second Workshop on Evaluating Vector Space Representations for NLP</h1>
-<h2>Co-located with EMNLP 2017</h2>
+**RepEval 2017:  The Second Workshop on Evaluating Vector Space Representations for NLP**
+
+Co-located with [EMNLP 2017](http://emnlp2017.net/)
 
 Description
 ---------
