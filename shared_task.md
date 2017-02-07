@@ -433,7 +433,7 @@ navigation_weight: 3
 
 <td class="c38" colspan="3" rowspan="1">
 
-<span class="c5">Fiction</span>
+<em>Fiction</em>
 
 </td>
 
@@ -467,7 +467,7 @@ navigation_weight: 3
 
 <td class="c38" colspan="3" rowspan="1">
 
-<span class="c5">Letters</span>
+<em>Letters</em>
 
 </td>
 
@@ -501,7 +501,7 @@ navigation_weight: 3
 
 <td class="c38" colspan="3" rowspan="1">
 
-<span class="c5">Telephone Speech</span>
+<em>Telephone Speech</em>
 
 </td>
 
@@ -535,7 +535,7 @@ navigation_weight: 3
 
 <td class="c38" colspan="3" rowspan="1">
 
-<span class="c5">9/11 Report</span>
+<em>9/11 Report</em>
 
 </td>
 
