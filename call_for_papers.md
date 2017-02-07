@@ -2,6 +2,7 @@
 layout: page
 title: Call for Papers
 permalink: /call/
+navigation_weight: 2
 ---
 
 Mission Statement: To foster the development of new and improved ways of measuring the quality and understanding the properties of vector space representations in NLP.
