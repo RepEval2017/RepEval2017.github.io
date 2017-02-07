@@ -22,7 +22,7 @@ permalink: /shared/
 
 <a id="t.65e94aab32684b27bd9c0ded893f49c4546886c0"></a><a id="t.0"></a>
 
-<table class="c20">
+<table class="c20" padding="4">
 
 <tbody>
 
@@ -30,25 +30,25 @@ permalink: /shared/
 
 <td class="c48" colspan="1" rowspan="1">
 
-<span class="c11">Section name</span>
+<strong>Section name</strong>
 
 </td>
 
 <td class="c46" colspan="1" rowspan="1">
 
-<span class="c11">Training pairs</span>
+<strong>Training pairs</strong>
 
 </td>
 
 <td class="c41" colspan="1" rowspan="1">
 
-<span class="c11">Dev pairs</span>
+<strong>Dev pairs</strong>
 
 </td>
 
 <td class="c36" colspan="1" rowspan="1">
 
-<span class="c11">Test pairs</span>
+<strong>Test pairs</strong>
 
 </td>
 
@@ -396,13 +396,13 @@ permalink: /shared/
 
 <span class="c4"></span>
  
-<span>As in SNLI, each example will consist of two sentences and a label. The first sentence is drawn from a preexisting text source—either one of the sections of the</span> <span class="c2">[Open American National Corpus](https://www.anc.org/oanc/)</span><span>(OpenANC) or some other permissively licensed source. The second sentence is written by crowd workers as part of data collection. Data for each genre will be collected in a separate crowdsourcing task. The labels will be</span> <em>entailment</em><span>,</span> <em>neutral</em><span>, and <em>contradiction</em>, in roughly equal proportions. Some examples from the corpus can be seen below.</span>
+<span>As in SNLI, each example will consist of two sentences and a label. The first sentence is drawn from a preexisting text source—either one of the sections of the</span> <span class="c2">[Open American National Corpus](https://www.anc.org/oanc/)</span><span> (OpenANC) or some other permissively licensed source. The second sentence is written by crowd workers as part of data collection. Data for each genre will be collected in a separate crowdsourcing task. The labels will be</span> <em>entailment</em><span>,</span> <em>neutral</em><span>, and <em>contradiction</em>, in roughly equal proportions. Some examples from the corpus can be seen below.</span>
 
 <span class="c4"></span>
 
 <a id="t.69933aa0e44b75a463015374d7f77f5dc897d5c8"></a><a id="t.1"></a>
 
-<table class="c20">
+<table class="c20" padding="5">
 
 <tbody>
 
@@ -410,19 +410,19 @@ permalink: /shared/
 
 <td class="c17" colspan="1" rowspan="1">
 
-<span class="c11">Premise</span>
+<strong>Premise</strong>
 
 </td>
 
 <td class="c37" colspan="1" rowspan="1">
 
-<span class="c11">Label</span>
+<strong>Label</strong>
 
 </td>
 
 <td class="c35" colspan="1" rowspan="1">
 
-<span class="c11">Hypothesis</span>
+<strong>Hypothesis</strong>
 
 </td>
 
@@ -625,22 +625,3 @@ permalink: /shared/
 *   <span>Discussion/FAQ forum (ask questions here first):</span> <span class="c2">[Google Forum](https://groups.google.com/forum/#!forum/repeval17-qa/)</span>
 *   <span>Private questions:</span> <span class="c2">[Sam Bowman](mailto:bowman@nyu.edu)</span>
 
-<div class="c42">
-
-[[a]](#cmnt_ref1)<span class="c4">Internal deadlines:</span>
-
-<span class="c4">Friday, July 21 - Send final workshop schedules to EMNLP handbook chair</span>
-
-<span class="c4">Saturday, July 29 - Send proceedings to EMNLP publications chairs</span>
-
-</div>
-
-<div class="c42">
-
-[[b]](#cmnt_ref2)<span class="c4">Internal deadlines:</span>
-
-<span class="c4">Friday, July 21 - Send final workshop schedules to EMNLP handbook chair</span>
-
-<span class="c4">Saturday, July 29 - Send proceedings to EMNLP publications chairs</span>
-
-</div>
