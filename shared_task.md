@@ -2,6 +2,7 @@
 layout: page
 title: Shared Task
 permalink: /shared/
+navigation_weight: 3
 ---
 
 ## <span class="c14 c53">Call for Participation: RepEval 2017 Shared Task</span>
