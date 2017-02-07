@@ -4,8 +4,6 @@ title: Call for Papers
 permalink: /call/
 ---
 
-# Call for Papers
-
 Mission Statement: To foster the development of new and improved ways of measuring the quality and understanding the properties of vector space representations in NLP.
 
 Time & Location: Copenhagen, Denmark (EMNLP 2017 workshop).
