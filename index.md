@@ -1,5 +1,7 @@
 ---
-layout: default
+layout: page
+title: About
+permalink: /about/
 ---
 
 <h1 id="about">RepEval 2017: The Second Workshop on Evaluating Vector Space Representations for NLP</h1>
