@@ -16,8 +16,10 @@ Evaluating general-purpose representation learning systems is fundamentally diff
 
 This workshop aims foster discussion of these issues, and to support the search for high-quality general purpose representation learning techniques for NLP. The workshop will accept submissions through two tracks: a proposal track will showcase submitted proposals for new evaluation techniques, and a shared task will accept submissions of new general purpose sentence representation systems---for which standard evaluations are notably absent---which will be evaluated on a sentence understanding task.
 
+Anti-harassment policy
+---------
 
-
+This workshop follows the [ACL anti-harassment policy](https://www.aclweb.org/adminwiki/index.php?title=Anti-Harassment_Policy). We encourage you to contact any or all of the organizers listed below if you witness or experience any harassment or hostile behavior related to this workshop.
 
 Organizers
 ---------
