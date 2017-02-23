@@ -55,4 +55,7 @@ Submissions to both tracks should be 2-4 pages of content in EMNLP format, with 
 
 ## Important Dates
 
-Will be announced in the near future.
+June 14 (GMT-11, 23:59:59): Proposal papers due
+July 3 (GMT-11, 23:59:59): Reviews due
+July 6: Acceptance notification
+July 21 (GMT-11, 23:59:59): Camera-ready papers due
