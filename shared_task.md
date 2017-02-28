@@ -396,7 +396,9 @@ navigation_weight: 3
 </table>
 
 <span class="c4"></span>
- 
+
+<span>**Update: Thanks to funding provided by a Google Faculty Research Award (to Bowman and Lazaridou), we plan to increase the size of teh dataset to at least 5x the scale reported above. Details to follow.**</span>
+
 <span>As in SNLI, each example will consist of two sentences and a label. The first sentence is drawn from a preexisting text source—either one of the sections of the</span> <span class="c2">[Open American National Corpus](https://www.anc.org/oanc/)</span><span> (OpenANC) or some other permissively licensed source. The second sentence is written by crowd workers as part of data collection. Data for each genre will be collected in a separate crowdsourcing task. The labels will be</span> <em>entailment</em><span>,</span> <em>neutral</em><span>, and <em>contradiction</em>, in roughly equal proportions. Some examples from the corpus can be seen below.</span>
 
 <span class="c4"></span>
