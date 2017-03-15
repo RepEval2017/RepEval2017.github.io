@@ -612,7 +612,7 @@ navigation_weight: 3
 
 ### <span class="c25">Key dates</span>
 
-*   <strong>By March 15:</strong> <span class="c4">Training and development data available, draft data description paper available, competition begins</span>
+*   <strong>By March 15 (approximate, slight delays possible):</strong> <span class="c4">Training and development data available, draft data description paper available, competition begins</span>
 *   <strong>By May 1:</strong> <span class="c4">Expert-tagged development data for error analysis available</span>
 *   <strong>June 1:</strong> <span class="c4">Unlabeled test data available, evaluation period begins, Kaggle evaluation site opens</span>
 *   <strong>June 14 (GMT-11, 23:59:59):</strong> <span class="c4">Evaluation period ends, system description papers and code packages due</span>
