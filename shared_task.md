@@ -5,11 +5,11 @@ permalink: /shared/
 navigation_weight: 3
 ---
 
-## <span class="c14 c53">Call for Participation: RepEval 2017 Shared Task</span>
+## <span class="c14 c53">The RepEval 2017 Shared Task</span>
 
 ### <span class="c25">Introduction</span>
 
-<span>RepEval 2017 will feature a shared task meant to evaluate natural language understanding models based on sentence encoders—that is, models that transform sentences into fixed-length vector representations and reason using those representations. The task will be natural language inference (also known as recognizing textual entailment, or RTE) in the style of</span> <span class="c2">[SNLI](http://nlp.stanford.edu/projects/snli/)</span><span class="c4">—a three-class balanced classification problem over sentence pairs. The shared task will feature a new, dedicated dataset that spans several genres of text.</span>
+<span>RepEval 2017 features a shared task meant to evaluate natural language understanding models based on sentence encoders—that is, models that transform sentences into fixed-length vector representations and reason using those representations. The task will be natural language inference (also known as recognizing textual entailment, or RTE) in the style of</span> <span class="c2">[SNLI](http://nlp.stanford.edu/projects/snli/)</span><span class="c4">—a three-class balanced classification problem over sentence pairs. The shared task will feature a new, dedicated dataset that spans several genres of text. Participation is open and new teams may join at any time.</span>
 
 <span class="c4"></span>
 
@@ -17,7 +17,9 @@ navigation_weight: 3
 
 ### <span class="c25">The data</span>
 
-<span>The task dataset will consist of 50k training examples drawn from five genres of text, and 40k test and development examples drawn from those same five genres, as well as five more. Data collection for the task dataset will be closely modeled on</span> <span class="c2">[SNLI](http://nlp.stanford.edu/projects/snli/)</span><span>, which is based on the genre of image captions, and may be used as additional training and development data, but will not be included in the evaluation.</span>
+A preliminary version of the training and development sections of the task data can be found [here](http://nyu.edu/projects/bowman/multinli/).
+
+<span>When complete, task dataset (called the Multi-genre NLI corpus, or MultiNLI) will consist of about 350k training examples drawn from five genres of text, and 40k test and development examples drawn from those same five genres, as well as five more. Data collection for the task dataset is be closely modeled on</span> <span class="c2">[SNLI](http://nlp.stanford.edu/projects/snli/)</span><span>, which is based on the genre of image captions, and may be used as additional training and development data, but will not be included in the evaluation.</span>
 
 <span class="c4"></span>
 
@@ -87,125 +89,125 @@ navigation_weight: 3
 
 <td class="c22" colspan="1" rowspan="1">
 
-<span class="c5">Telephone Speech</span>
-
-</td>
-
-<td class="c30" colspan="1" rowspan="1">
-
-<span class="c5">10,000</span>
-
-</td>
-
-<td class="c27" colspan="1" rowspan="1">
-
-<span class="c5">2,000</span>
-
-</td>
-
-<td class="c9" colspan="1" rowspan="1">
-
-<span class="c5">2,000</span>
-
-</td>
-
-</tr>
-
-<tr class="c3">
-
-<td class="c22" colspan="1" rowspan="1">
-
-<span class="c5">Slate Articles</span>
-
-</td>
-
-<td class="c30" colspan="1" rowspan="1">
-
-<span class="c5">10,000</span>
-
-</td>
-
-<td class="c27" colspan="1" rowspan="1">
-
-<span class="c5">2,000</span>
-
-</td>
-
-<td class="c9" colspan="1" rowspan="1">
-
-<span class="c5">2,000</span>
-
-</td>
-
-</tr>
-
-<tr class="c3">
-
-<td class="c22" colspan="1" rowspan="1">
-
-<span class="c5">Nonfiction Books</span>
-
-</td>
-
-<td class="c30" colspan="1" rowspan="1">
-
-<span class="c5">10,000</span>
-
-</td>
-
-<td class="c27" colspan="1" rowspan="1">
-
-<span class="c5">2,000</span>
-
-</td>
-
-<td class="c9" colspan="1" rowspan="1">
-
-<span class="c5">2,000</span>
-
-</td>
-
-</tr>
-
-<tr class="c3">
-
-<td class="c22" colspan="1" rowspan="1">
-
-<span class="c5">Government Documents</span>
-
-</td>
-
-<td class="c30" colspan="1" rowspan="1">
-
-<span class="c5">10,000</span>
-
-</td>
-
-<td class="c27" colspan="1" rowspan="1">
-
-<span class="c5">2,000</span>
-
-</td>
-
-<td class="c9" colspan="1" rowspan="1">
-
-<span class="c5">2,000</span>
-
-</td>
-
-</tr>
-
-<tr class="c3">
-
-<td class="c22" colspan="1" rowspan="1">
-
 <span class="c5">Fiction</span>
 
 </td>
 
 <td class="c30" colspan="1" rowspan="1">
 
-<span class="c5">10,000</span>
+<span class="c5">62,204</span>
+
+</td>
+
+<td class="c27" colspan="1" rowspan="1">
+
+<span class="c5">1,865</span>
+
+</td>
+
+<td class="c9" colspan="1" rowspan="1">
+
+<span class="c5">1,865</span>
+
+</td>
+
+</tr>
+
+<tr class="c3">
+
+<td class="c22" colspan="1" rowspan="1">
+
+<span class="c5">Government</span>
+
+</td>
+
+<td class="c30" colspan="1" rowspan="1">
+
+<span class="c5">51,025</span>
+
+</td>
+
+<td class="c27" colspan="1" rowspan="1">
+
+<span class="c5">1,808</span>
+
+</td>
+
+<td class="c9" colspan="1" rowspan="1">
+
+<span class="c5">1,820</span>
+
+</td>
+
+</tr>
+
+<tr class="c3">
+
+<td class="c22" colspan="1" rowspan="1">
+
+<span class="c5">Slate</span>
+
+</td>
+
+<td class="c30" colspan="1" rowspan="1">
+
+<span class="c5">53,750</span>
+
+</td>
+
+<td class="c27" colspan="1" rowspan="1">
+
+<span class="c5">1,775</span>
+
+</td>
+
+<td class="c9" colspan="1" rowspan="1">
+
+<span class="c5">1,835</span>
+
+</td>
+
+</tr>
+
+<tr class="c3">
+
+<td class="c22" colspan="1" rowspan="1">
+
+<span class="c5">Telephone Speech</span>
+
+</td>
+
+<td class="c30" colspan="1" rowspan="1">
+
+<span class="c5">50,405</span>
+
+</td>
+
+<td class="c27" colspan="1" rowspan="1">
+
+<span class="c5">1,811</span>
+
+</td>
+
+<td class="c9" colspan="1" rowspan="1">
+
+<span class="c5">1,781</span>
+
+</td>
+
+</tr>
+
+<tr class="c3">
+
+<td class="c22" colspan="1" rowspan="1">
+
+<span class="c5">Travel Guides</span>
+
+</td>
+
+<td class="c30" colspan="1" rowspan="1">
+
+<span class="c5">51,271</span>
 
 </td>
 
@@ -227,7 +229,7 @@ navigation_weight: 3
 
 <td class="c22" colspan="1" rowspan="1">
 
-<span class="c5">Face-to-face Speech</span>
+<span class="c5">9/11 Report</span>
 
 </td>
 
@@ -255,7 +257,7 @@ navigation_weight: 3
 
 <td class="c22" colspan="1" rowspan="1">
 
-<span class="c5">Verbatim Magazine</span>
+<span class="c5">Face-to-face Speech</span>
 
 </td>
 
@@ -311,7 +313,7 @@ navigation_weight: 3
 
 <td class="c22" colspan="1" rowspan="1">
 
-<span class="c5">Travel Guides</span>
+<span class="c5">Nonfiction Books (OUP)</span>
 
 </td>
 
@@ -323,13 +325,13 @@ navigation_weight: 3
 
 <td class="c27" colspan="1" rowspan="1">
 
-<span class="c5">2,000</span>
+<span class="c5">1,999</span>
 
 </td>
 
 <td class="c9" colspan="1" rowspan="1">
 
-<span class="c5">2,000</span>
+<span class="c5">1,999</span>
 
 </td>
 
@@ -339,7 +341,7 @@ navigation_weight: 3
 
 <td class="c31" colspan="1" rowspan="1">
 
-<span class="c5">9/11 Report</span>
+<span class="c5">Magazine (Verbatim)</span>
 
 </td>
 
@@ -373,19 +375,19 @@ navigation_weight: 3
 
 <td class="c46" colspan="1" rowspan="1">
 
-<span class="c5">50,000</span>
+<span class="c5">268,659</span>
 
 </td>
 
 <td class="c41" colspan="1" rowspan="1">
 
-<span class="c5">20,000</span>
+<span class="c5">19,258</span>
 
 </td>
 
 <td class="c36" colspan="1" rowspan="1">
 
-<span class="c5">20,000</span>
+<span class="c5">19,300</span>
 
 </td>
 
@@ -397,7 +399,7 @@ navigation_weight: 3
 
 <span class="c4"></span>
 
-<span>**Update: Thanks to funding provided by a Google Faculty Research Award (to Bowman and Lazaridou), we plan to increase the size of teh dataset to at least 5x the scale reported above. Details to follow.**</span>
+<span>**Update: Thanks to funding provided by a Google Faculty Research Award (to Bowman and Lazaridou), we increased the size of the dataset beyond the original 70k target, and plan to continue expanding it over the coming weeks to a final target of about 400k examples.**</span>
 
 <span>As in SNLI, each example will consist of two sentences and a label. The first sentence is drawn from a preexisting text source—either one of the sections of the</span> <span class="c2">[Open American National Corpus](https://www.anc.org/oanc/)</span><span> (OpenANC) or some other permissively licensed source. The second sentence is written by crowd workers as part of data collection. Data for each genre will be collected in a separate crowdsourcing task. The labels will be</span> <em>entailment</em><span>,</span> <em>neutral</em><span>, and <em>contradiction</em>, in roughly equal proportions. Some examples from the corpus can be seen below.</span>
 
@@ -573,7 +575,7 @@ navigation_weight: 3
 
 <span class="c4"></span>
 
-<span class="c4">Data will be released in the same two formats as SNLI: tab-separated values and jsonl. It will take the form of five files in each format: train, in-domain development, cross-domain development, in-domain test, and cross-domain test. Each individual example will be marked with a genre tag.</span>
+<span class="c4">Data is available in the same two formats as SNLI: tab-separated values and jsonl. It will take the form of five files in each format: train, in-domain development, cross-domain development, in-domain test, and cross-domain test. Each individual example will be marked with a genre tag.</span>
 
 <span class="c4"></span>
 
@@ -587,7 +589,7 @@ navigation_weight: 3
 
 *   <span>Evaluation will be done using the Kaggle platform. During the evaluation period, submitters download an unlabeled copy of the test set, use their systems to predict labels, and upload those labels.</span>
 *   <span class="c4">Submitters may submit to either or both of the two evaluations (in-domain or cross-domain).</span>
-*   <span class="c4">Multiple submissions from the same team are allowed, up to a limit of two per day during the two-week evaluation period.</span>
+*   <span class="c4">Multiple submissions from the same team are allowed, up to a limit of two per day during the two-week evaluation period. Individual participants may join multiple teams within reason, but only when each team reflects a fully independent engineering effort.</span>
 
 <span class="c4"></span>
 
@@ -602,7 +604,7 @@ navigation_weight: 3
 <span class="c14 c28 c15">Outside data</span>
 
 *   <span>The use of outside data is allowed, including</span><span class="c4"> raw unannotated text from any source, word vector packages, and knowledge resources like WordNet are explicitly permitted. We will provide links to unlabeled OpenANC data that reflects the target genres.</span>
-*   <span class="c4">All outside data used must be publically available to allow for reproducibility. Widely-used data with restrictive licences or licensing fees (such as LDC-distributed corpora) may be allowed at our discretion. Please inquire at the QA forum below.</span>
+*   <span class="c4">All outside data used must be publicly available to allow for reproducibility. Widely-used data with restrictive licenses or licensing fees (such as LDC-distributed corpora) may be allowed at our discretion. Please inquire at the QA forum below.</span>
 
 ### <span class="c25">Paper submission</span>
 
@@ -612,7 +614,7 @@ navigation_weight: 3
 
 ### <span class="c25">Key dates</span>
 
-*   <strong>By March 15 (approximate, slight delays possible):</strong> <span class="c4">Training and development data available, draft data description paper available, competition begins</span>
+*   <strong>March 24:</strong> <span class="c4">[Training and development data and draft data description paper](http://nyu.edu/projects/bowman/multinli) available, competition begins</span>
 *   <strong>By May 1:</strong> <span class="c4">Expert-tagged development data for error analysis available</span>
 *   <strong>June 1:</strong> <span class="c4">Unlabeled test data available, evaluation period begins, Kaggle evaluation site opens</span>
 *   <strong>June 14 (GMT-11, 23:59:59):</strong> <span class="c4">Evaluation period ends, system description papers and code packages due</span>
