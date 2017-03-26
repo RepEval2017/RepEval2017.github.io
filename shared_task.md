@@ -95,19 +95,19 @@ A preliminary version of the training and development sections of the task data 
 
 <td class="c30" colspan="1" rowspan="1">
 
-<span class="c5">62,204</span>
+<span class="c5">71,432</span>
 
 </td>
 
 <td class="c27" colspan="1" rowspan="1">
 
-<span class="c5">1,865</span>
+<span class="c5">2,000</span>
 
 </td>
 
 <td class="c9" colspan="1" rowspan="1">
 
-<span class="c5">1,865</span>
+<span class="c5">2,000</span>
 
 </td>
 
@@ -123,19 +123,19 @@ A preliminary version of the training and development sections of the task data 
 
 <td class="c30" colspan="1" rowspan="1">
 
-<span class="c5">51,025</span>
+<span class="c5">59,360</span>
 
 </td>
 
 <td class="c27" colspan="1" rowspan="1">
 
-<span class="c5">1,808</span>
+<span class="c5">2,000</span>
 
 </td>
 
 <td class="c9" colspan="1" rowspan="1">
 
-<span class="c5">1,820</span>
+<span class="c5">2,000</span>
 
 </td>
 
@@ -151,19 +151,19 @@ A preliminary version of the training and development sections of the task data 
 
 <td class="c30" colspan="1" rowspan="1">
 
-<span class="c5">53,750</span>
+<span class="c5">59,360</span>
 
 </td>
 
 <td class="c27" colspan="1" rowspan="1">
 
-<span class="c5">1,775</span>
+<span class="c5">2,000</span>
 
 </td>
 
 <td class="c9" colspan="1" rowspan="1">
 
-<span class="c5">1,835</span>
+<span class="c5">2,000</span>
 
 </td>
 
@@ -179,19 +179,19 @@ A preliminary version of the training and development sections of the task data 
 
 <td class="c30" colspan="1" rowspan="1">
 
-<span class="c5">50,405</span>
+<span class="c5">61,997</span>
 
 </td>
 
 <td class="c27" colspan="1" rowspan="1">
 
-<span class="c5">1,811</span>
+<span class="c5">2,000</span>
 
 </td>
 
 <td class="c9" colspan="1" rowspan="1">
 
-<span class="c5">1,781</span>
+<span class="c5">2,000</span>
 
 </td>
 
@@ -207,7 +207,7 @@ A preliminary version of the training and development sections of the task data 
 
 <td class="c30" colspan="1" rowspan="1">
 
-<span class="c5">51,271</span>
+<span class="c5">63,271</span>
 
 </td>
 
@@ -325,13 +325,13 @@ A preliminary version of the training and development sections of the task data 
 
 <td class="c27" colspan="1" rowspan="1">
 
-<span class="c5">1,999</span>
+<span class="c5">2,000</span>
 
 </td>
 
 <td class="c9" colspan="1" rowspan="1">
 
-<span class="c5">1,999</span>
+<span class="c5">2,000</span>
 
 </td>
 
@@ -375,19 +375,19 @@ A preliminary version of the training and development sections of the task data 
 
 <td class="c46" colspan="1" rowspan="1">
 
-<span class="c5">268,659</span>
+<span class="c5">312,905</span>
 
 </td>
 
 <td class="c41" colspan="1" rowspan="1">
 
-<span class="c5">19,258</span>
+<span class="c5">20,000</span>
 
 </td>
 
 <td class="c36" colspan="1" rowspan="1">
 
-<span class="c5">19,300</span>
+<span class="c5">20,000</span>
 
 </td>
 

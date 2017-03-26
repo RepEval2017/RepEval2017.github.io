@@ -16,6 +16,10 @@ Evaluating general-purpose representation learning systems is fundamentally diff
 
 This workshop aims foster discussion of these issues, and to support the search for high-quality general purpose representation learning techniques for NLP. The workshop will accept submissions through two tracks: a proposal track will showcase submitted proposals for new evaluation techniques, and a shared task will accept submissions of new general purpose sentence representation systems---for which standard evaluations are notably absent---which will be evaluated on a sentence understanding task.
 
+News
+---------
+* 3/24: The shared task has launched.
+
 Anti-harassment policy
 ---------
 
