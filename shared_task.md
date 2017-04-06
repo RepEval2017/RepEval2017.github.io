@@ -375,7 +375,7 @@ A preliminary version of the training and development sections of the task data 
 
 <td class="c46" colspan="1" rowspan="1">
 
-<span class="c5">312,905</span>
+<span class="c5">392,702</span>
 
 </td>
 
