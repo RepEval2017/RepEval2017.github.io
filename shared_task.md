@@ -19,7 +19,7 @@ navigation_weight: 3
 
 A preliminary version of the training and development sections of the task data can be found [here](http://nyu.edu/projects/bowman/multinli/).
 
-<span>When complete, task dataset (called the Multi-genre NLI corpus, or MultiNLI) will consist of about 350k training examples drawn from five genres of text, and 40k test and development examples drawn from those same five genres, as well as five more. Data collection for the task dataset is be closely modeled on</span> <span class="c2">[SNLI](http://nlp.stanford.edu/projects/snli/)</span><span>, which is based on the genre of image captions, and may be used as additional training and development data, but will not be included in the evaluation.</span>
+<span>The task dataset (called the Multi-genre NLI corpus, or MultiNLI) consist of 393k training examples drawn from five genres of text, and 40k test and development examples drawn from those same five genres, as well as five more. Data collection for the task dataset is be closely modeled on</span> <span class="c2">[SNLI](http://nlp.stanford.edu/projects/snli/)</span><span>, which is based on the genre of image captions, and may be used as additional training and development data, but will not be included in the evaluation.</span>
 
 <span class="c4"></span>
 
@@ -95,7 +95,7 @@ A preliminary version of the training and development sections of the task data 
 
 <td class="c30" colspan="1" rowspan="1">
 
-<span class="c5">71,432</span>
+<span class="c5">77,348</span>
 
 </td>
 
@@ -123,7 +123,7 @@ A preliminary version of the training and development sections of the task data 
 
 <td class="c30" colspan="1" rowspan="1">
 
-<span class="c5">59,360</span>
+<span class="c5">77,350</span>
 
 </td>
 
@@ -151,7 +151,7 @@ A preliminary version of the training and development sections of the task data 
 
 <td class="c30" colspan="1" rowspan="1">
 
-<span class="c5">59,360</span>
+<span class="c5">77,306</span>
 
 </td>
 
@@ -179,7 +179,7 @@ A preliminary version of the training and development sections of the task data 
 
 <td class="c30" colspan="1" rowspan="1">
 
-<span class="c5">61,997</span>
+<span class="c5">83,348</span>
 
 </td>
 
@@ -207,7 +207,7 @@ A preliminary version of the training and development sections of the task data 
 
 <td class="c30" colspan="1" rowspan="1">
 
-<span class="c5">63,271</span>
+<span class="c5">77,350</span>
 
 </td>
 
@@ -399,7 +399,6 @@ A preliminary version of the training and development sections of the task data 
 
 <span class="c4"></span>
 
-<span>**Update: Thanks to funding provided by a Google Faculty Research Award (to Bowman and Lazaridou), we increased the size of the dataset beyond the original 70k target, and plan to continue expanding it over the coming weeks to a final target of about 400k examples.**</span>
 
 <span>As in SNLI, each example will consist of two sentences and a label. The first sentence is drawn from a preexisting text source—either one of the sections of the</span> <span class="c2">[Open American National Corpus](https://www.anc.org/oanc/)</span><span> (OpenANC) or some other permissively licensed source. The second sentence is written by crowd workers as part of data collection. Data for each genre will be collected in a separate crowdsourcing task. The labels will be</span> <em>entailment</em><span>,</span> <em>neutral</em><span>, and <em>contradiction</em>, in roughly equal proportions. Some examples from the corpus can be seen below.</span>
 
@@ -624,9 +623,8 @@ A preliminary version of the training and development sections of the task data 
 *   <strong>July 21</strong><strong> (GMT-11, 23:59:59)</strong><strong>:</strong><span> Camera ready papers due</span>
 *   <strong>September 8:</strong> <span class="c4">Workshop at EMNLP 2017, Copenhagen: shared task poster session and selected short talks</span>
 
-### <span class="c25">Mailing list and contact</span>
+### <span class="c25">Join us!</span>
 
 *   <span>Announcements list (all participants should subscribe):</span> <span class="c2">[Google Group](https://groups.google.com/forum/#!forum/repeval17-annouce)</span>
 *   <span>Discussion/FAQ forum (ask questions here first):</span> <span class="c2">[Google Forum](https://groups.google.com/forum/#!forum/repeval17-qa/)</span>
 *   <span>Private questions:</span> <span class="c2">[Sam Bowman](mailto:bowman@nyu.edu)</span>
-
