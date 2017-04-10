@@ -19,7 +19,7 @@ navigation_weight: 3
 
 A preliminary version of the training and development sections of the task data can be found [here](http://nyu.edu/projects/bowman/multinli/).
 
-<span>The task dataset (called the Multi-genre NLI corpus, or MultiNLI) consist of 393k training examples drawn from five genres of text, and 40k test and development examples drawn from those same five genres, as well as five more. Data collection for the task dataset is be closely modeled on</span> <span class="c2">[SNLI](http://nlp.stanford.edu/projects/snli/)</span><span>, which is based on the genre of image captions, and may be used as additional training and development data, but will not be included in the evaluation.</span>
+<span>The task dataset (called the Multi-Genre NLI corpus, or MultiNLI) consist of 393k training examples drawn from five genres of text, and 40k test and development examples drawn from those same five genres, as well as five more. Data collection for the task dataset is be closely modeled on</span> <span class="c2">[SNLI](http://nlp.stanford.edu/projects/snli/)</span><span>, which is based on the genre of image captions, and may be used as additional training and development data, but will not be included in the evaluation.</span>
 
 <span class="c4"></span>
 
