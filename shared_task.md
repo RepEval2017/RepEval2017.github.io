@@ -606,7 +606,7 @@ A preliminary version of the training and development sections of the task data 
 *   <span class="c4">All outside data used must be publicly available to allow for reproducibility. Widely-used data with restrictive licenses or licensing fees (such as LDC-distributed corpora) may be allowed at our discretion. Please inquire at the QA forum below.</span>
 
 
-<span class="c14 c28 c15">Baselines</span>
+### <span class="c25">Baselines</span>
 
 *   The <a href="http://nyu.edu/projects/bowman/multinli">corpus description paper</a> presents the following baselines:
 
@@ -682,7 +682,9 @@ A preliminary version of the training and development sections of the task data 
 </table>
 
 
+
 * Note that the paper also presents results with an [ESIM](https://arxiv.org/abs/1609.06038). That model relies on attention between sentences and would be ineligible for inclusion in this competition.
+
 * Both models are trained on a mix of MultiNLI and SNLI and use [GloVe](https://nlp.stanford.edu/projects/glove/) word vectors. Code will be available shortly.
 
 <span class="c4"></span>
