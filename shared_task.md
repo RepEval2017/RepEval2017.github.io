@@ -605,11 +605,94 @@ A preliminary version of the training and development sections of the task data 
 *   <span>The use of outside data is allowed, including</span><span class="c4"> raw unannotated text from any source, word vector packages, and knowledge resources like WordNet are explicitly permitted. We will provide links to unlabeled OpenANC data that reflects the target genres.</span>
 *   <span class="c4">All outside data used must be publicly available to allow for reproducibility. Widely-used data with restrictive licenses or licensing fees (such as LDC-distributed corpora) may be allowed at our discretion. Please inquire at the QA forum below.</span>
 
+
+<span class="c14 c28 c15">Baselines</span>
+
+*   The <a href="http://nyu.edu/projects/bowman/multinli">corpus description paper</a> presents the following baselines:
+
+
+<span class="c4"></span>
+
+<a id="t.65e94aab32684b27bd9c0ded893f49c4546886c0"></a><a id="t.0"></a>
+
+<table class="c20" padding="4">
+
+<tbody>
+
+<tr class="c3">
+
+<td class="c48" colspan="1" rowspan="1">
+
+<strong>Model</strong>
+
+</td>
+
+<td class="c46" colspan="1" rowspan="1">
+
+<strong>Matched Test Acc.</strong>
+
+</td>
+
+<td class="c41" colspan="1" rowspan="1">
+
+<strong>Mismatched Test Acc.</strong>
+
+</td>
+
+</tr>
+
+<tr class="c3">
+<td class="c34" colspan="1" rowspan="1">
+<span class="c7">Most Frequent Class</span>
+</td>
+<td class="c49" colspan="1" rowspan="1">
+<span class="c7">36.5</span>
+</td>
+<td class="c44" colspan="1" rowspan="1">
+<span class="c7">35.6</span>
+</td>
+</tr>
+
+<tr class="c3">
+<td class="c34" colspan="1" rowspan="1">
+<span class="c7">CBOW</span>
+</td>
+<td class="c49" colspan="1" rowspan="1">
+<span class="c7">66.2</span>
+</td>
+<td class="c44" colspan="1" rowspan="1">
+<span class="c7">64.6</span>
+</td>
+</tr>
+
+<tr class="c3">
+<td class="c34" colspan="1" rowspan="1">
+<span class="c7">BiLSTM</span>
+</td>
+<td class="c49" colspan="1" rowspan="1">
+<span class="c7">67.5</span>
+</td>
+<td class="c44" colspan="1" rowspan="1">
+<span class="c7">67.1</span>
+</td>
+</tr>
+
+* Note that the paper also presents results with an [ESIM](https://arxiv.org/abs/1609.06038). That model relies on attention between sentences and would be ineligible for inclusion in this competition.
+* Both models are trained on a mix of MultiNLI and SNLI and use [GloVe](https://nlp.stanford.edu/projects/glove/) word vectors. Code will be available shortly.
+
+</tbody>
+
+</table>
+
+<span class="c4"></span>
+
+
 ### <span class="c25">Paper submission</span>
 
 *   <span class="c4">For inclusion in the workshop and the final leaderboard, you must submit:</span>
   *   <span class="c4">A system description paper of 2–4 pages in ACL format. System description papers will be reviewed for readability and soundness (but not novelty/technical merit) before acceptance.</span>
   *   <span class="c4">A .zip code package that can be used to reproduce the submitted results after being trained on widely-available data files.</span>
+
 
 ### <span class="c25">Key dates</span>
 
