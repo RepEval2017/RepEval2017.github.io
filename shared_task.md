@@ -681,7 +681,7 @@ A preliminary version of the training and development sections of the task data 
 
 </table>
 
-
+<span class="c4"></span>
 
 * Note that the paper also presents results with an [ESIM](https://arxiv.org/abs/1609.06038). That model relies on attention between sentences and would be ineligible for inclusion in this competition.
 
