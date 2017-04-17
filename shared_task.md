@@ -623,13 +623,13 @@ A preliminary version of the training and development sections of the task data 
 
 <td class="c48" colspan="1" rowspan="1">
 
-<strong>Model</strong>
+<strong>Model&nbsp;</strong>
 
 </td>
 
 <td class="c46" colspan="1" rowspan="1">
 
-<strong>Matched Test Acc.</strong>
+<strong>Matched Test Acc.&nbsp;</strong>
 
 </td>
 
@@ -670,19 +670,20 @@ A preliminary version of the training and development sections of the task data 
 <span class="c7">BiLSTM</span>
 </td>
 <td class="c49" colspan="1" rowspan="1">
-<span class="c7">67.5</span>
+<strong>67.5</strong>
 </td>
 <td class="c44" colspan="1" rowspan="1">
-<span class="c7">67.1</span>
+<strong>67.1</strong>
 </td>
 </tr>
-
-* Note that the paper also presents results with an [ESIM](https://arxiv.org/abs/1609.06038). That model relies on attention between sentences and would be ineligible for inclusion in this competition.
-* Both models are trained on a mix of MultiNLI and SNLI and use [GloVe](https://nlp.stanford.edu/projects/glove/) word vectors. Code will be available shortly.
 
 </tbody>
 
 </table>
+
+
+* Note that the paper also presents results with an [ESIM](https://arxiv.org/abs/1609.06038). That model relies on attention between sentences and would be ineligible for inclusion in this competition.
+* Both models are trained on a mix of MultiNLI and SNLI and use [GloVe](https://nlp.stanford.edu/projects/glove/) word vectors. Code will be available shortly.
 
 <span class="c4"></span>
 
