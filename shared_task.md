@@ -685,7 +685,9 @@ A preliminary version of the training and development sections of the task data 
 
 * Note that the paper also presents results with an [ESIM](https://arxiv.org/abs/1609.06038). That model relies on attention between sentences and would be ineligible for inclusion in this competition.
 
-* Both models are trained on a mix of MultiNLI and SNLI and use [GloVe](https://nlp.stanford.edu/projects/glove/) word vectors. Code will be available shortly.
+* Both models are trained on a mix of MultiNLI and SNLI and use [GloVe](https://nlp.stanford.edu/projects/glove/) word vectors.
+
+* Code (TensorFlow/Python) is available [here](https://github.com/NYU-MLL/multiNLI).
 
 <span class="c4"></span>
 
