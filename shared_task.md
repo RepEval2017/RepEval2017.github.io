@@ -702,7 +702,7 @@ A preliminary version of the training and development sections of the task data 
 ### <span class="c25">Key dates</span>
 
 *   <strong>March 24:</strong> <span class="c4">[Training and development data and draft data description paper](http://nyu.edu/projects/bowman/multinli) available, competition begins</span>
-*   <strong>By May 1:</strong> <span class="c4">Expert-tagged development data for error analysis available</span>
+*   <strong>By May 15:</strong> <span class="c4">Expert-tagged development data for error analysis available</span>
 *   <strong>June 1:</strong> <span class="c4">Unlabeled test data available, evaluation period begins, Kaggle evaluation site opens</span>
 *   <strong>June 14 (GMT-11, 23:59:59):</strong> <span class="c4">Evaluation period ends, system description papers and code packages due</span>
 *   <strong>June 16:</strong> <span class="c4">Winners formally announced</span>
