@@ -588,7 +588,7 @@ A preliminary version of the training and development sections of the task data 
 
 *   <span>Evaluation will be done using the Kaggle platform. During the evaluation period, submitters download an unlabeled copy of the test set, use their systems to predict labels, and upload those labels. Standard Kaggle rules apply.</span>
 *   <span class="c4">Submitters may submit to either or both of the two evaluations (in-domain or cross-domain).</span>
-*   <span class="c4">Multiple submissions from the same team are allowed, up to a limit of two per day during the two-week evaluation period. Individual participants may join multiple teams within reason, but only when each team reflects a fully independent engineering effort.</span>
+*   <span class="c4">Multiple submissions from the same team are allowed, up to a limit of two per day during the two-week evaluation period. Individual participants (i.e., PIs) may join multiple teams within reason, but only when each team reflects a fully independent engineering effort, and each team has a different lead developer. (Note: Kaggle may not allow entrants to formally join multiple teams. In this case, PIs and others spanning multiple teams should join at most a single Kaggle team and only disclose their memberships in their paper submission.)</span>
 
 <span class="c4"></span>
 
