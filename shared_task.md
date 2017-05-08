@@ -586,7 +586,7 @@ A preliminary version of the training and development sections of the task data 
 
 <span class="c14 c28 c15">Evaluation</span>
 
-*   <span>Evaluation will be done using the Kaggle platform. During the evaluation period, submitters download an unlabeled copy of the test set, use their systems to predict labels, and upload those labels.</span>
+*   <span>Evaluation will be done using the Kaggle platform. During the evaluation period, submitters download an unlabeled copy of the test set, use their systems to predict labels, and upload those labels. Standard Kaggle rules apply.</span>
 *   <span class="c4">Submitters may submit to either or both of the two evaluations (in-domain or cross-domain).</span>
 *   <span class="c4">Multiple submissions from the same team are allowed, up to a limit of two per day during the two-week evaluation period. Individual participants may join multiple teams within reason, but only when each team reflects a fully independent engineering effort.</span>
 
@@ -596,6 +596,7 @@ A preliminary version of the training and development sections of the task data 
 
 *   <span class="c4">This competition is meant to evaluate the quality of vector representations of sentences, and all submitted systems should include a bottleneck in which sentences are represented as fixed-length vectors with no explicitly-imposed internal structure. Typical attention and memory models that represent sentences as sets or sequences of vectors, though useful for tasks like NLI, are not eligible for inclusion in this competition. (It is allowed, should it be useful, to use two separate models to encode the two input sentences.)</span>
 *   <span class="c4">The development sets are to be used for model selection and the tuning of reasonable hyperparameters. Models that are explicitly trained on the development data may be disqualified.</span>
+*   <span class="c4">Models should make their predictions for each example independantly. It is the case that different pairs sharing the same premise typically have different labels (as an artificact of how we created the data), but systems are not allowed to exploit this signal to model joint distributions over multiple examples at once. (If you aren't sure whether this applies to your system, it probably doesn't.)</span>
 *   <span>For inclusion in the workshop and the final leaderboard, submitters will have to upload a</span> <span>code package</span><span>that can be used to reproduce the submitted results. This code package will not be used as the primary means of evaluation, but it will be made public to encourage both reproducibility and future extension of submitted models.</span> <span class="c4">Moreover, for a limited set of sentences, participants will be asked to provide the sentence vectors produced by their best performing model. These vectors will be used in our own analysis of the results.</span>
 
 <span class="c4"></span>
