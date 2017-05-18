@@ -659,7 +659,7 @@ A preliminary version of the training and development sections of the task data 
 <span class="c7">CBOW</span>
 </td>
 <td class="c49" colspan="1" rowspan="1">
-<span class="c7">66.2</span>
+<span class="c7">65.2</span>
 </td>
 <td class="c44" colspan="1" rowspan="1">
 <span class="c7">64.6</span>
