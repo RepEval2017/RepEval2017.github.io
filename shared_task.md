@@ -13,11 +13,11 @@ navigation_weight: 3
 
 <span class="c4"></span>
 
-<span>The shared task will feature two evaluations, a standard in-domain evaluation in which the training and test data are drawn from the same sources, and a cross-domain evaluation in which the training and test data differ substantially. This cross-domain evaluation will test the ability of submitted systems to learn</span> <span class="c4">representations of sentence meaning that capture broadly useful features.</span>
+<span>The shared task includes two evaluations, a standard in-domain (matched) evaluation in which the training and test data are drawn from the same sources, and a cross-domain (mismatched) evaluation in which the training and test data differ substantially. This cross-domain evaluation will test the ability of submitted systems to learn</span> <span class="c4">representations of sentence meaning that capture broadly useful features.</span>
 
 ### <span class="c25">The data</span>
 
-A preliminary version of the training and development sections of the task data can be found [here](http://nyu.edu/projects/bowman/multinli/).
+The training and development sections of the task data can be found [here](http://nyu.edu/projects/bowman/multinli/). The unlabeled test data is available through the Kaggle in Class competiton pages (<a href="https://inclass.kaggle.com/c/multinli-matched-evaluation/data"><span class="c4">matched</span></a>, <a href="https://inclass.kaggle.com/c/multinli-mismatched-evaluation/data"><span class="c4">mismatched</span></a>).
 
 <span>The task dataset (called the Multi-Genre NLI Corpus, or MultiNLI) consist of 393k training examples drawn from five genres of text, and 40k test and development examples drawn from those same five genres, as well as five more. Data collection for the task dataset is be closely modeled on</span> <span class="c2">[SNLI](http://nlp.stanford.edu/projects/snli/)</span><span>, which is based on the genre of image captions, and may be used as additional training and development data, but will not be included in the evaluation.</span>
 
@@ -692,13 +692,17 @@ A preliminary version of the training and development sections of the task data 
 
 <span class="c4"></span>
 
+### <span class="c25">Leaderboard and evaluation site</span>
+
+<span class="c4">To participate in the competition, evaluate your system, or view the current mid-competiton leaderboard (including systems that may not qualify for the final leaderboard), use these two Kaggle in Class competitions:</span>
+  *   <a href="https://inclass.kaggle.com/c/multinli-matched-evaluation"><span class="c4">MultiNLI Matched</span></a>
+  *   <a href="https://inclass.kaggle.com/c/multinli-mismatched-evaluation"><span class="c4">MultiNLI Mismatched</span></a>
 
 ### <span class="c25">Paper submission</span>
 
-*   <span class="c4">For inclusion in the workshop and the final leaderboard, you must submit:</span>
+<span class="c4">For inclusion in the workshop and the final leaderboard, you must submit:</span>
   *   <span class="c4">A system description paper of 2–4 pages in ACL format. System description papers will be reviewed for readability and soundness (but not novelty/technical merit) before acceptance.</span>
   *   <span class="c4">A .zip code package that can be used to reproduce the submitted results after being trained on widely-available data files.</span>
-
 
 ### <span class="c25">Key dates</span>
 
