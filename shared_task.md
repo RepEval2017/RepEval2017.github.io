@@ -406,7 +406,7 @@ The training and development sections of the task data can be found [here](http:
 
 <a id="t.69933aa0e44b75a463015374d7f77f5dc897d5c8"></a><a id="t.1"></a>
 
-<table class="c20" padding="5">
+> <table class="c20" padding="5">
 
 <tbody>
 
@@ -598,13 +598,14 @@ The training and development sections of the task data can be found [here](http:
 *   <span class="c4">The development sets are to be used for model selection and the tuning of reasonable hyperparameters. Models that are explicitly trained on the development data may be disqualified.</span>
 *   <span class="c4">Models should make their predictions for each example independantly. It is the case that different pairs sharing the same premise typically have different labels (as an artificact of how we created the data), but systems are not allowed to exploit this signal to model joint distributions over multiple examples at once. (If you aren't sure whether this applies to your system, it probably doesn't.)</span>
 *   <span>For inclusion in the workshop and the final leaderboard, participants will have to upload a</span> <span>code package</span><span>that can be used to reproduce the submitted results. This code package will not be used as the primary means of evaluation, but it will be made public to encourage both reproducibility and future extension of submitted models.</span>
-*   <span class="c4">For inclusion in the workshop and the final leaderboard, participants will also be asked to provide the sentence vectors produced by their best performing model. When you submit your system, you will also be asked to upload a sentence vector file with lines of the form 'pairID \t p or h (for premise or hypothesis) \t sentence representation vector as whitespace-delimited (tab or space) values. For example, a line might look like:
+*   For inclusion in the workshop and the final leaderboard, participants will also be asked to provide the sentence vectors produced by their best performing model. When you submit your system, you will also be asked to upload a sentence vector file with lines of the form 'pairID \t p or h (for premise or hypothesis) \t sentence representation vector as whitespace-delimited (tab or space) values. For example, a line might look like:
+
 
    ```
    123	p	0.27204 -0.06203 -0.1884 0.023225 -0.018158 0.0067192 -0.13877 0.17708 0.17709 ...
    ```
-   You should supply vectors for every sentence (premise and hypothesis) in the test set(s) for the competition(s) you're submitting to. 
-   In addition, you are also asked to submit vectors for a set of additional probe sentences. These sentences are [here](http://nyu.edu/projects/bowman/multinli/extra-sentences-needing-vectors.zip), distributed in the same format as MultiNLI, but with one sentence per line, marked as the premise, and no hypothesis. All your vectors should be concatenated into a single file.</span>
+
+   You should supply vectors for every sentence (premise and hypothesis) in the test set(s) for the competition(s) you're submitting to. In addition, you are also asked to submit vectors for a set of additional probe sentences. These sentences are [here](http://nyu.edu/projects/bowman/multinli/extra-sentences-needing-vectors.zip), distributed in the same format as MultiNLI, but with one sentence per line, marked as the premise, and no hypothesis. All your vectors should be concatenated into a single file.
 
 <span class="c4"></span>
 
