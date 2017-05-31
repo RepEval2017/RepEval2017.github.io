@@ -402,181 +402,93 @@ The training and development sections of the task data can be found [here](http:
 
 <span>As in SNLI, each example will consist of two sentences and a label. The first sentence is drawn from a preexisting text source—either one of the sections of the</span> <span class="c2">[Open American National Corpus](https://www.anc.org/oanc/)</span><span> (OpenANC) or some other permissively licensed source. The second sentence is written by crowd workers as part of data collection. Data for each genre will be collected in a separate crowdsourcing task. The labels will be</span> <em>entailment</em><span>,</span> <em>neutral</em><span>, and <em>contradiction</em>, in roughly equal proportions. Some examples from the corpus can be seen below.</span>
 
-<span class="c4"></span>
-
-<a id="t.69933aa0e44b75a463015374d7f77f5dc897d5c8"></a><a id="t.1"></a>
-
-> <table class="c20" padding="5">
-
-<tbody>
-
-<tr class="c3">
-
-<td class="c17" colspan="1" rowspan="1">
-
-<strong>Premise</strong>
-
-</td>
-
-<td class="c37" colspan="1" rowspan="1">
-
-<strong>Label</strong>
-
-</td>
-
-<td class="c35" colspan="1" rowspan="1">
-
-<strong>Hypothesis</strong>
-
-</td>
-
-</tr>
-
-<tr class="c0">
-
-<td class="c38" colspan="3" rowspan="1">
-
-<em>Fiction</em>
-
-</td>
-
-</tr>
-
-<tr class="c3">
-
-<td class="c17" colspan="1" rowspan="1">
-
-<span>The Old One always comforted Ca'daan, except today.</span>
-
-</td>
-
-<td class="c37" colspan="1" rowspan="1">
-
-<em>neutral</em>
-
-</td>
-
-<td class="c35" colspan="1" rowspan="1">
-
-<span class="c4">Ca'daan knew the Old One very well.</span>
-
-<span class="c5"></span>
-
-</td>
-
-</tr>
-
-<tr class="c0">
-
-<td class="c38" colspan="3" rowspan="1">
-
-<em>Letters</em>
-
-</td>
-
-</tr>
-
-<tr class="c3">
-
-<td class="c17" colspan="1" rowspan="1">
-
-<span>Your gift is appreciated by each and every student who will benefit from your generosity.</span>
-
-</td>
-
-<td class="c37" colspan="1" rowspan="1">
-
-<em>neutral</em>
-
-</td>
-
-<td class="c35" colspan="1" rowspan="1">
-
-<span class="c4">Hundreds of students will benefit from your generosity.</span>
-
-<span class="c5"></span>
-
-</td>
-
-</tr>
-
-<tr class="c0">
-
-<td class="c38" colspan="3" rowspan="1">
-
-<em>Telephone Speech</em>
-
-</td>
-
-</tr>
-
-<tr class="c3">
-
-<td class="c17" colspan="1" rowspan="1">
-
-<span>yes now you know if if everybody like in August when everybody's on vacation or something we can dress a little more casual or</span>
-
-</td>
-
-<td class="c47" colspan="1" rowspan="1">
-
-<em>contradiction</em>
-
-</td>
-
-<td class="c21" colspan="1" rowspan="1">
-
-<span class="c4">August is a black out month for vacations in the company.</span>
-
-<span class="c5"></span>
-
-</td>
-
-</tr>
-
-<tr class="c3">
-
-<td class="c38" colspan="3" rowspan="1">
-
-<em>9/11 Report</em>
-
-</td>
-
-</tr>
-
-<tr class="c3">
-
-<td class="c17" colspan="1" rowspan="1">
-
-<span>At the other end of Pennsylvania Avenue, people began to line up for a White House tour.</span>
-
-</td>
-
-<td class="c37" colspan="1" rowspan="1">
-
-<em>entailment</em>
-
-</td>
-
-<td class="c35" colspan="1" rowspan="1">
-
-<span class="c4">People formed a line at the end of Pennsylvania Avenue.</span>
-
-<span class="c5"></span>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-<span class="c4"></span>
+  <a id="t.69933aa0e44b75a463015374d7f77f5dc897d5c8"></a><a id="t.1"></a>
+  <table class="c20" padding="10">
+  <tbody>
+  <tr class="c3">
+  <td class="c17" colspan="1" rowspan="1">
+  <strong>Premise</strong>
+  </td>
+  <td class="c37" colspan="1" rowspan="1">
+  <strong>Label</strong>
+  </td>
+  <td class="c35" colspan="1" rowspan="1">
+  <strong>Hypothesis</strong>
+  </td>
+  </tr>
+  <tr class="c0">
+  <td class="c38" colspan="3" rowspan="1">
+  <em>Fiction</em>
+  </td>
+  </tr>
+  <tr class="c3">
+  <td class="c17" colspan="1" rowspan="1">
+  <span>The Old One always comforted Ca'daan, except today.</span>
+  </td>
+  <td class="c37" colspan="1" rowspan="1">
+  <em>neutral</em>
+  </td>
+  <td class="c35" colspan="1" rowspan="1">
+  <span class="c4">Ca'daan knew the Old One very well.</span>
+  <span class="c5"></span>
+  </td>
+  </tr>
+  <tr class="c0">
+  <td class="c38" colspan="3" rowspan="1">
+  <em>Letters</em>
+  </td>
+  </tr>
+  <tr class="c3">
+  <td class="c17" colspan="1" rowspan="1">
+  <span>Your gift is appreciated by each and every student who will benefit from your generosity.</span>
+  </td>
+  <td class="c37" colspan="1" rowspan="1">
+  <em>neutral</em>
+  </td>
+  <td class="c35" colspan="1" rowspan="1">
+  <span class="c4">Hundreds of students will benefit from your generosity.</span>
+  <span class="c5"></span>
+  </td>
+  </tr>
+  <tr class="c0">
+  <td class="c38" colspan="3" rowspan="1">
+  <em>Telephone Speech</em>
+  </td>
+  </tr>
+  <tr class="c3">
+  <td class="c17" colspan="1" rowspan="1">
+  <span>yes now you know if if everybody like in August when everybody's on vacation or something we can dress a little more casual or</span>
+  </td>
+  <td class="c47" colspan="1" rowspan="1">
+  <em>contradiction</em>
+  </td>
+  <td class="c21" colspan="1" rowspan="1">
+  <span class="c4">August is a black out month for vacations in the company.</span>
+  <span class="c5"></span>
+  </td>
+  </tr>
+  <tr class="c3">
+  <td class="c38" colspan="3" rowspan="1">
+  <em>9/11 Report</em>
+  </td>
+  </tr>
+  <tr class="c3">
+  <td class="c17" colspan="1" rowspan="1">
+  <span>At the other end of Pennsylvania Avenue, people began to line up for a White House tour.</span>
+  </td>
+  <td class="c37" colspan="1" rowspan="1">
+  <em>entailment</em>
+  </td>
+  <td class="c35" colspan="1" rowspan="1">
+  <span class="c4">People formed a line at the end of Pennsylvania Avenue.</span>
+  <span class="c5"></span>
+  </td>
+  </tr>
+  </tbody>
+  </table>
 
 <span class="c4">Data is available in the same two formats as SNLI: tab-separated values and jsonl. It will take the form of five files in each format: train, in-domain development, cross-domain development, in-domain test, and cross-domain test. Each individual example will be marked with a genre tag.</span>
-
-<span class="c4"></span>
+   <span class="c4"></span>
 
 <span class="c4">We are also separately distributing a [small subset of the development data that has been manually annotated to facilitate error analysis](https://www.nyu.edu/projects/bowman/multinli/multinli_0.9_annotations.zip).</span>
 
