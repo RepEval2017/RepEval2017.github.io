@@ -523,7 +523,7 @@ The training and development sections of the task data can be found [here](http:
 
 <span class="c14 c28 c15">Outside data</span>
 
-*   <span>The use of outside data is allowed, including</span><span class="c4"> raw unannotated text from any source, word vector packages, and knowledge resources like WordNet are explicitly permitted. We will provide links to unlabeled OpenANC data that reflects the target genres.</span>
+*   <span>The use of outside data is allowed, including</span><span class="c4"> raw unannotated text from any source (including [OpenANC](https://www.anc.org/oanc/) and the other sources from which MultiNLI was derived), word vector packages, and knowledge resources like WordNet.</span>
 *   <span class="c4">All outside data used must be publicly available to allow for reproducibility. Widely-used data with restrictive licenses or licensing fees (such as LDC-distributed corpora) may be allowed at our discretion. Please inquire at the QA forum below.</span>
 
 
