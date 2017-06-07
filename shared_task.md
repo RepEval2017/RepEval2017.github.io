@@ -624,6 +624,7 @@ The training and development sections of the task data can be found [here](http:
   *   <span class="c4">A system description paper of 2–4 pages in EMNLP format. System description papers will be reviewed for readability and soundness (but not novelty/technical merit) before acceptance.</span>
   *   <span class="c4">A .zip code package (as a link from your paper) that can be used to reproduce the submitted results after being trained on widely-available data files.</span>
   *   <span class="c4">A URL for a vector package, as discussed above.</span>
+  
 <span class="c4">Paper prepration and uploading instructions can be found in the [Call for Papers](https://repeval2017.github.io/call/).</span>
 
 ### <span class="c25">Key dates</span>
