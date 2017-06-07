@@ -51,7 +51,9 @@ We hope that one or more of these proposals will evolve into next year’s share
 
 Submissions to both tracks should be 2-4 pages of content in EMNLP format, with an unlimited amount of pages for references. For the proposal track, we encourage shorter content (2-3 pages), leaving more room for examples and their visualization.
 
+Please submit papers via this URL: http://softconf.com/emnlp2017/repeval
 
+When submitting, make sure to select the right track (Proposal or Shared Task). For shared task papers, please upload an additional text file with a publicly-accessible link to your sentence vectors.
 
 ## Important Dates
 
