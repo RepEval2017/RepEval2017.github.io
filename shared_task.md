@@ -510,7 +510,7 @@ The training and development sections of the task data can be found [here](http:
 *   <span class="c4">The development sets are to be used for model selection and the tuning of reasonable hyperparameters. Models that are explicitly trained on the development data may be disqualified.</span>
 *   <span class="c4">Models should make their predictions for each example independantly. It is the case that different pairs sharing the same premise typically have different labels (as an artificact of how we created the data), but systems are not allowed to exploit this signal to model joint distributions over multiple examples at once. (If you aren't sure whether this applies to your system, it probably doesn't.)</span>
 *   <span>For inclusion in the workshop and the final leaderboard, participants will have to upload a</span> <span>code package</span><span>that can be used to reproduce the submitted results. This code package will not be used as the primary means of evaluation, but it will be made public to encourage both reproducibility and future extension of submitted models.</span>
-*   For inclusion in the workshop and the final leaderboard, participants will also be asked to provide the sentence vectors produced by their best performing model. When you submit your system, you will also be asked to upload a sentence vector file with lines of the form 'pairID \t p or h (for premise or hypothesis) \t sentence representation vector as whitespace-delimited (tab or space) values. For example, a line might look like:
+*   For inclusion in the workshop and the final leaderboard, participants will also be asked to provide the sentence vectors produced by their best performing model. When you submit your system, you will also be asked to upload a link to a sentence vector file with lines of the form 'pairID \t p or h (for premise or hypothesis) \t sentence representation vector as whitespace-delimited (tab or space) values. For example, a line might look like:
 
 
    ```
@@ -621,15 +621,17 @@ The training and development sections of the task data can be found [here](http:
 ### <span class="c25">Paper submission</span>
 
 <span class="c4">For inclusion in the workshop and the final leaderboard, you must submit:</span>
-  *   <span class="c4">A system description paper of 2–4 pages in ACL format. System description papers will be reviewed for readability and soundness (but not novelty/technical merit) before acceptance.</span>
-  *   <span class="c4">A .zip code package that can be used to reproduce the submitted results after being trained on widely-available data files.</span>
+  *   <span class="c4">A system description paper of 2–4 pages in EMNLP format. System description papers will be reviewed for readability and soundness (but not novelty/technical merit) before acceptance.</span>
+  *   <span class="c4">A .zip code package (as a link from your paper) that can be used to reproduce the submitted results after being trained on widely-available data files.</span>
+  *   <span class="c4">A URL for a vector package, as discussed above.</span>
+<span class="c4">Paper prepration and uploading instructions can be found in the [Call for Papers](https://repeval2017.github.io/call/).</span>
 
 ### <span class="c25">Key dates</span>
 
 *   <strong>March 24:</strong> <span class="c4">[Training and development data and draft data description paper](http://nyu.edu/projects/bowman/multinli) available, competition begins</span>
 *   <strong>By May 15:</strong> <span class="c4">[Expert-tagged development data for error analysis](https://www.nyu.edu/projects/bowman/multinli/multinli_0.9_annotations.zip) available</span>
 *   <strong>June 1:</strong> <span class="c4">Unlabeled test data available, evaluation period begins, Kaggle evaluation site opens</span>
-*   <strong>June 14 (GMT-11, 23:59:59):</strong> <span class="c4">Evaluation period ends, system description papers and code packages due</span>
+*   <strong>June 14 (GMT-11, 23:59:59):</strong> <span class="c4">Evaluation period ends, [system description papers and code packages due](https://repeval2017.github.io/call/)</span>
 *   <strong>June 16:</strong> <span class="c4">Winners formally announced</span>
 *   <strong>July 3 (GMT-11, 23:59:59):</strong> <span class="c4">Reviews due</span>
 *   <strong>July 6:</strong> <span class="c4">Notification of presentation acceptance</span>
