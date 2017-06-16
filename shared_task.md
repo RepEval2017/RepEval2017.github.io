@@ -70,7 +70,7 @@ navigation_weight: 3
     <td>68.2%</td>
   </tr>
   <tr>
-    <td>BiLSTM baseline</td>
+    <td><it>BiLSTM baseline</it></td>
     <td><a href="https://www.nyu.edu/projects/bowman/multinli/paper.pdf">Williams et al.</a></td>
     <td>67.0%</td>
     <td>67.6%</td>
@@ -103,13 +103,13 @@ The training and development sections of the task data can be found [here](http:
 
 <td class="c46" colspan="1" rowspan="1">
 
-<strong>Training pairs</strong>
+<strong>Training pairs&nbsp;</strong>
 
 </td>
 
 <td class="c41" colspan="1" rowspan="1">
 
-<strong>Dev pairs</strong>
+<strong>Dev pairs&nbsp;</strong>
 
 </td>
 
@@ -125,7 +125,7 @@ The training and development sections of the task data can be found [here](http:
 
 <td class="c34" colspan="1" rowspan="1">
 
-<span class="c7">Captions (SNLI Corpus)</span>
+<span class="c7">Captions (SNLI Corpus)&nbsp;</span>
 
 </td>
 
@@ -628,7 +628,7 @@ The training and development sections of the task data can be found [here](http:
 
 <tr class="c3">
 <td class="c34" colspan="1" rowspan="1">
-<span class="c7">Most Frequent Class</span>
+<span class="c7">Most Frequent Class&nbsp;</span>
 </td>
 <td class="c49" colspan="1" rowspan="1">
 <span class="c7">36.5</span>
@@ -697,7 +697,7 @@ The training and development sections of the task data can be found [here](http:
 *   <strong>By May 15:</strong> <span class="c4">[Expert-tagged development data for error analysis](https://www.nyu.edu/projects/bowman/multinli/multinli_0.9_annotations.zip) available</span>
 *   <strong>June 1:</strong> <span class="c4">Unlabeled test data available, evaluation period begins, Kaggle evaluation site opens</span>
 *   <strong>June 14 (GMT-11, 23:59:59):</strong> <span class="c4">Evaluation period ends, [system description papers and code packages due](https://repeval2017.github.io/call/)</span>
-*   <strong>June 16:</strong> <span class="c4">Winners formally announced</span>
+*   <strong>June 16:</strong> <span class="c4">Results announced (see above)</span>
 *   <strong>July 3 (GMT-11, 23:59:59):</strong> <span class="c4">Reviews due</span>
 *   <strong>July 6:</strong> <span class="c4">Notification of presentation acceptance</span>
 *   <strong>July 21</strong><strong> (GMT-11, 23:59:59)</strong><strong>:</strong><span> Camera ready papers due</span>
