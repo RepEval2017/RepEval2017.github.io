@@ -36,14 +36,14 @@ navigation_weight: 3
   <tr>
     <td>YixinNie-UNC-NLP</td>
     <td>Yixin Nie and Mohit Bansal&nbsp;</td>
-    <td>74.5%</td>
-    <td>73.5%</td>
+    <td><strong>74.5%</strong></td>
+    <td><strong>73.5%</strong></td>
   </tr>
   <tr>
     <td>alpha</td>
     <td>Qian Chen et al.</td>
     <td>73.5%</td>
-    <td>73.6%</td>
+    <td><strong>73.6%</strong></td>
   </tr>
   <tr>
     <td>Rivercorners (ensemble)&nbsp;</td>
