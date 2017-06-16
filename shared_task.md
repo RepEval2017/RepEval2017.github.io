@@ -15,6 +15,69 @@ navigation_weight: 3
 
 <span>The shared task includes two evaluations, a standard in-domain (matched) evaluation in which the training and test data are drawn from the same sources, and a cross-domain (mismatched) evaluation in which the training and test data differ substantially. This cross-domain evaluation will test the ability of submitted systems to learn</span> <span class="c4">representations of sentence meaning that capture broadly useful features.</span>
 
+### <span class="c25">Results</span>
+
+<span>The following table presents the results as of the close of the competition on June 15. All numbers reflect accuracy on the hidden portion of the test set. Accepted papers will be made available in late summer.</span>
+
+
+<table>
+  <tr>
+    <th>Team</th>
+    <th>Authors</th>
+    <th>Matched Acc.</th>
+    <th>Mismatched Acc.</th>
+  </tr>
+  <tr>
+    <td>alpha (ensemble)</td>
+    <td>Qian Chen et al.</td>
+    <td><strong>74.9%</strong></td>
+    <td><strong>74.9%</strong></td>
+  </tr>
+  <tr>
+    <td>YixinNie-UNC-NLP</td>
+    <td>Yixin Nie and Mohit Bansal</td>
+    <td>74.5%</td>
+    <td>73.5%</td>
+  </tr>
+  <tr>
+    <td>alpha</td>
+    <td>Qian Chen et al.</td>
+    <td>73.5%</td>
+    <td>73.6%</td>
+  </tr>
+  <tr>
+    <td>Rivercorners (ensemble)</td>
+    <td>Jorge Balazs et al.</td>
+    <td>72.2%</td>
+    <td>72.8%</td>
+  </tr>
+  <tr>
+    <td>Rivercorners</td>
+    <td>Jorge Balazs et al.</td>
+    <td>72.1%</td>
+    <td>72.1%</td>
+  </tr>
+  <tr>
+    <td>LCT-MALTA</td>
+    <td>Hoa Vu</td>
+    <td>70.7%</td>
+    <td>70.8%</td>
+  </tr>
+  <tr>
+    <td>TALP-UPC</td>
+    <td>Han Yang et al.</td>
+    <td>67.9%</td>
+    <td>68.2%</td>
+  </tr>
+  <tr>
+    <td>BiLSTM baseline</td>
+    <td><a href="https://www.nyu.edu/projects/bowman/multinli/paper.pdf">Williams et al.</a></td>
+    <td>67.0%</td>
+    <td>67.6%</td>
+  </tr>
+</table>
+
+
 ### <span class="c25">The data</span>
 
 The training and development sections of the task data can be found [here](http://nyu.edu/projects/bowman/multinli/). The unlabeled test data is available through the Kaggle in Class competiton pages (<a href="https://inclass.kaggle.com/c/multinli-matched-evaluation/data"><span class="c4">matched</span></a>, <a href="https://inclass.kaggle.com/c/multinli-mismatched-evaluation/data"><span class="c4">mismatched</span></a>).
