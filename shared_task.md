@@ -77,6 +77,7 @@ navigation_weight: 3
   </tr>
 </table>
 
+<span></span>
 
 ### <span class="c25">The data</span>
 
