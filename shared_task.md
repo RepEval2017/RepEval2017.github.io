@@ -24,7 +24,7 @@ navigation_weight: 3
   <tr>
     <td><strong>Team</strong></td>
     <td><strong>Authors</strong></td>
-    <td><strong>Matched Acc.</strong></td>
+    <td><strong>Matched Acc.&nbsp;</strong></td>
     <td><strong>Mismatched Acc.</strong></td>
   </tr>
   <tr>
@@ -35,7 +35,7 @@ navigation_weight: 3
   </tr>
   <tr>
     <td>YixinNie-UNC-NLP</td>
-    <td>Yixin Nie and Mohit Bansal</td>
+    <td>Yixin Nie and Mohit Bansal&nbsp;</td>
     <td>74.5%</td>
     <td>73.5%</td>
   </tr>
@@ -46,7 +46,7 @@ navigation_weight: 3
     <td>73.6%</td>
   </tr>
   <tr>
-    <td>Rivercorners (ensemble)</td>
+    <td>Rivercorners (ensemble)&nbsp;</td>
     <td>Jorge Balazs et al.</td>
     <td>72.2%</td>
     <td>72.8%</td>
