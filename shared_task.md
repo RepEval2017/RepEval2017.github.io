@@ -22,10 +22,10 @@ navigation_weight: 3
 
 <table>
   <tr>
-    <th>Team</th>
-    <th>Authors</th>
-    <th>Matched Acc.</th>
-    <th>Mismatched Acc.</th>
+    <td><strong>Team</strong></td>
+    <td><strong>Authors</strong></td>
+    <td><strong>Matched Acc.</strong></td>
+    <td><strong>Mismatched Acc.</strong></td>
   </tr>
   <tr>
     <td>alpha (ensemble)</td>
