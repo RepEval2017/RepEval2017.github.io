@@ -79,6 +79,10 @@ navigation_weight: 3
 
 <span></span>
 
+### <span class="c25">Recap Paper</span>
+
+<a href="https://arxiv.org/pdf/1707.08172.pdf">Competition Recap Paper</a> (preprint)
+
 ### <span class="c25">The data</span>
 
 The training and development sections of the task data can be found [here](http://nyu.edu/projects/bowman/multinli/). The unlabeled test data is available through the Kaggle in Class competiton pages (<a href="https://inclass.kaggle.com/c/multinli-matched-evaluation/data"><span class="c4">matched</span></a>, <a href="https://inclass.kaggle.com/c/multinli-mismatched-evaluation/data"><span class="c4">mismatched</span></a>).
@@ -573,7 +577,7 @@ The training and development sections of the task data can be found [here](http:
 *   <span class="c4">This competition is meant to evaluate the quality of vector representations of sentences, and all submitted systems should include a bottleneck in which sentences are represented as fixed-length vectors with no explicitly-imposed internal structure. Typical attention and memory models that represent sentences as sets or sequences of vectors, though useful for tasks like NLI, are not eligible for inclusion in this competition. (It is allowed, should it be useful, to use two separate models to encode the two input sentences.)</span>
 *   <span class="c4">The development sets are to be used for model selection and the tuning of reasonable hyperparameters. Models that are explicitly trained on the development data may be disqualified.</span>
 *   <span class="c4">Models should make their predictions for each example independantly. It is the case that different pairs sharing the same premise typically have different labels (as an artificact of how we created the data), but systems are not allowed to exploit this signal to model joint distributions over multiple examples at once. (If you aren't sure whether this applies to your system, it probably doesn't.)</span>
-*   <span>For inclusion in the workshop and the final leaderboard, participants will have to upload a</span> <span>code package</span><span>that can be used to reproduce the submitted results. This code package will not be used as the primary means of evaluation, but it will be made public to encourage both reproducibility and future extension of submitted models.</span>
+*   <span>For inclusion in the workshop and the final leaderboard, participants will have to upload a</span> <span>code package</span> <span>that can be used to reproduce the submitted results. This code package will not be used as the primary means of evaluation, but it will be made public to encourage both reproducibility and future extension of submitted models.</span>
 *   For inclusion in the workshop and the final leaderboard, participants will also be asked to provide the sentence vectors produced by their best performing model. When you submit your system, you will also be asked to upload a link to a sentence vector file with lines of the form 'pairID \t p or h (for premise or hypothesis) \t sentence representation vector as whitespace-delimited (tab or space) values. For example, a line might look like:
 
 
