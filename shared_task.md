@@ -29,31 +29,31 @@ navigation_weight: 3
   </tr>
   <tr>
     <td>alpha (ensemble)</td>
-    <td>Qian Chen et al.</td>
+    <td>Qian Chen et al. (<a href="https://arxiv.org/abs/1708.01353">arXiv</a>)</td>
     <td><strong>74.9%</strong></td>
     <td><strong>74.9%</strong></td>
   </tr>
   <tr>
     <td>YixinNie-UNC-NLP</td>
-    <td>Yixin Nie and Mohit Bansal&nbsp;</td>
+    <td>Yixin Nie and Mohit Bansal&nbsp; (<a href="https://arxiv.org/abs/1708.02312">arXiv</a>)</td>
     <td><strong>74.5%</strong></td>
     <td><strong>73.5%</strong></td>
   </tr>
   <tr>
     <td>alpha</td>
-    <td>Qian Chen et al.</td>
+    <td>Qian Chen et al. (<a href="https://arxiv.org/abs/1708.01353">arXiv</a>)</td>
     <td>73.5%</td>
     <td><strong>73.6%</strong></td>
   </tr>
   <tr>
     <td>Rivercorners (ensemble)&nbsp;</td>
-    <td>Jorge Balazs et al.</td>
+    <td>Jorge Balazs et al. (<a href="https://arxiv.org/abs/1707.03103">arXiv</a>)</td>
     <td>72.2%</td>
     <td>72.8%</td>
   </tr>
   <tr>
     <td>Rivercorners</td>
-    <td>Jorge Balazs et al.</td>
+    <td>Jorge Balazs et al. (<a href="https://arxiv.org/abs/1707.03103">arXiv</a>)</td>
     <td>72.1%</td>
     <td>72.1%</td>
   </tr>
@@ -65,7 +65,7 @@ navigation_weight: 3
   </tr>
   <tr>
     <td>TALP-UPC</td>
-    <td>Han Yang et al.</td>
+    <td>Han Yang et al. (<a href="https://arxiv.org/abs/1707.07469">arXiv</a>)</td>
     <td>67.9%</td>
     <td>68.2%</td>
   </tr>
