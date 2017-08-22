@@ -16,6 +16,99 @@ Evaluating general-purpose representation learning systems is fundamentally diff
 
 This workshop aims foster discussion of these issues, and to support the search for high-quality general purpose representation learning techniques for NLP. The workshop will accept submissions through two tracks: a proposal track will showcase submitted proposals for new evaluation techniques, and a shared task will accept submissions of new general purpose sentence representation systems---for which standard evaluations are notably absent---which will be evaluated on a sentence understanding task.
 
+Schedule 
+---------
+
+All sessions in Skt. Hans Torv
+
+
+**09:00   	Opening remarks**
+
+
+**09:20 - 09:55   	Shared task report** 
+
+*The RepEval 2017 Shared Task: Multi-Genre Natural Language Inference with Sentence Representations* 
+    
+
+**09:55 - 10:30**   	Yejin Choi (University of Washington) 
+
+
+**10:30 - 11:00   	Coffee break** (set up posters)
+
+
+**11:00 - 11:35**  	Jakob Uszkoreit (Google Research) 
+
+
+**11:35 - 12:10**   	Kyunghyun Cho (New York University) 
+
+
+**12:10 - 12:30   	Few minutes madness (Evaluation Proposals)** 
+
+*Traversal-Free Word Vector Evaluation in Analogy Space* 
+
+Xiaoyin Che, Nico Ring, Willi Raschkowski, Haojin Yang, Christoph Meinel
+Hasso Plattner Institute
+
+*Hypothesis Testing based Intrinsic Evaluation of Word Embeddings* 
+
+Nishant Gurnani
+	
+*Evaluation of word embeddings against cognitive processes...*
+
+Jeremy Auguste, Arnaud Rey, Benoit Favre
+
+*Playing with Embeddings : Evaluating embeddings for Robot Language Learning through MUD Games* 
+
+Anmol Gulati and Kumar Krishna Agrawal
+
+*Recognizing Textual Entailment in Twitter Using Word Embeddings* 
+
+Octavia-Maria Şulea
+
+
+**12:30 - 14:00   	Lunch** (somewhere together if pos)
+
+
+**14:00 - 14:30   	Contributed talks (shared task systems)** 
+
+
+**14:00 - 14:15**   
+
+*Recurrent Neural Network-Based Sentence Encoder with Gated Attention for Natural Language Inference* 
+
+Qian Chen, Xiaodan Zhu, Zhen-Hua Ling, Si Wei, Hui Jiang, Diana Inkpen
+	
+  
+**14:15 - 14:30**
+
+*Shortcut-Stacked Sentence Encoders for Multi-Domain Inference*
+
+Yixin Nie and Mohit Bansal
+
+
+**14:30 - 15:30   	Posters and discussion**
+
+*Character-level Intra Attention Network for Natural Language Inference* 
+
+Han Yang, Marta R. Costa-jussà, José A. R. Fonollosa
+	
+*Refining Raw Sentence Representations for Textual Entailment Recognition via Attention*  
+
+Jorge Balazs, Edison Marrese-Taylor, Pablo Loyola, Yutaka Matsuo
+		
+*LCT-MALTA's Submission to RepEval 2017 Shared Task* 
+
+Hoa Vu
+
+
+**15:30 - 16:00   	Working coffee break**
+
+
+**16:00 - 17:30   	Presentation of findings and panel discussion** 
+  
+Yejin Choi, Kyunghyun Cho, Jakob Uszkoreit and other great minds if they are up for it...
+
+
 News
 ---------
 * 3/24: The shared task has launched.
