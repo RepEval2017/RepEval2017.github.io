@@ -59,7 +59,7 @@ navigation_weight: 3
   </tr>
   <tr>
     <td>LCT-MALTA</td>
-    <td>Hoa Vu</td>
+    <td>Hoa Vu et al.</td>
     <td>70.7%</td>
     <td>70.8%</td>
   </tr>
