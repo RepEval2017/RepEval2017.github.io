@@ -98,7 +98,7 @@ Jorge Balazs, Edison Marrese-Taylor, Pablo Loyola, Yutaka Matsuo
 		
 [*LCT-MALTA's Submission to RepEval 2017 Shared Task*](papers/RepEval11.pdf) 
 
-Hoa Vu
+Hoa Trong Vu, Thuong-Hai Pham, Xiaoyu Bai, Marc Tanti, Lonneke van der Plas, Albert Gatt
 
 
 **15:30 - 16:00   	Working coffee break**
