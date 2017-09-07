@@ -53,7 +53,7 @@ Hasso Plattner Institute
 
 Nishant Gurnani
 	
-[*Evaluation of word embeddings against cognitive processes...*](papers/RepEval04.pdf)
+[*Evaluation of word embeddings against cognitive processess: primed reaction times in lexical decision and naming tasks*](papers/RepEval04.pdf)
 
 Jeremy Auguste, Arnaud Rey, Benoit Favre
 
