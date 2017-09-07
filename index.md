@@ -27,7 +27,7 @@ All sessions in Skt. Hans Torv
 
 **09:20 - 09:55   	Shared task report** 
 
-*The RepEval 2017 Shared Task: Multi-Genre Natural Language Inference with Sentence Representations* 
+[*The RepEval 2017 Shared Task: Multi-Genre Natural Language Inference with Sentence Representations*](papers/RepEval01.pdf) 
     
 
 **09:55 - 10:30**   	Yejin Choi (University of Washington) 
@@ -44,24 +44,24 @@ All sessions in Skt. Hans Torv
 
 **12:10 - 12:30   	Few minutes madness (Evaluation Proposals)** 
 
-*Traversal-Free Word Vector Evaluation in Analogy Space* 
+[*Traversal-Free Word Vector Evaluation in Analogy Space*](papers/RepEval02.pdf) 
 
 Xiaoyin Che, Nico Ring, Willi Raschkowski, Haojin Yang, Christoph Meinel
 Hasso Plattner Institute
 
-*Hypothesis Testing based Intrinsic Evaluation of Word Embeddings* 
+[*Hypothesis Testing based Intrinsic Evaluation of Word Embeddings*](papers/RepEval03.pdf) 
 
 Nishant Gurnani
 	
-*Evaluation of word embeddings against cognitive processes...*
+[*Evaluation of word embeddings against cognitive processes...*](papers/RepEval04.pdf)
 
 Jeremy Auguste, Arnaud Rey, Benoit Favre
 
-*Playing with Embeddings : Evaluating embeddings for Robot Language Learning through MUD Games* 
+[*Playing with Embeddings : Evaluating embeddings for Robot Language Learning through MUD Games*](papers/RepEval05.pdf) 
 
 Anmol Gulati and Kumar Krishna Agrawal
 
-*Recognizing Textual Entailment in Twitter Using Word Embeddings* 
+[*Recognizing Textual Entailment in Twitter Using Word Embeddings*](papers/RepEval06.pdf) 
 
 Octavia-Maria Şulea
 
@@ -74,29 +74,29 @@ Octavia-Maria Şulea
 
 **14:00 - 14:15**   
 
-*Recurrent Neural Network-Based Sentence Encoder with Gated Attention for Natural Language Inference* 
+[*Recurrent Neural Network-Based Sentence Encoder with Gated Attention for Natural Language Inference*](papers/RepEval07.pdf) 
 
 Qian Chen, Xiaodan Zhu, Zhen-Hua Ling, Si Wei, Hui Jiang, Diana Inkpen
 	
   
 **14:15 - 14:30**
 
-*Shortcut-Stacked Sentence Encoders for Multi-Domain Inference*
+[*Shortcut-Stacked Sentence Encoders for Multi-Domain Inference*](papers/RepEval08.pdf)
 
 Yixin Nie and Mohit Bansal
 
 
 **14:30 - 15:30   	Posters and discussion**
 
-*Character-level Intra Attention Network for Natural Language Inference* 
+[*Character-level Intra Attention Network for Natural Language Inference*](papers/RepEval09.pdf) 
 
 Han Yang, Marta R. Costa-jussà, José A. R. Fonollosa
 	
-*Refining Raw Sentence Representations for Textual Entailment Recognition via Attention*  
+[*Refining Raw Sentence Representations for Textual Entailment Recognition via Attention*](papers/RepEval10.pdf)  
 
 Jorge Balazs, Edison Marrese-Taylor, Pablo Loyola, Yutaka Matsuo
 		
-*LCT-MALTA's Submission to RepEval 2017 Shared Task* 
+[*LCT-MALTA's Submission to RepEval 2017 Shared Task*](papers/RepEval11.pdf) 
 
 Hoa Vu
 
