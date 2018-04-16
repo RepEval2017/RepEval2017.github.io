@@ -17,7 +17,7 @@ navigation_weight: 3
 
 ### <span class="c25">Results</span>
 
-<span>The following table presents the results as of the close of the competition on June 15. All numbers reflect accuracy on the hidden portion of the test set. Accepted papers will be made available in late summer.</span>
+<span>The following table presents the results as of the close of the competition on June 15. All numbers reflect accuracy on the hidden portion of the test set.</span>
 
 
 <table>
@@ -29,43 +29,43 @@ navigation_weight: 3
   </tr>
   <tr>
     <td>alpha (ensemble)</td>
-    <td>Qian Chen et al. (<a href="https://arxiv.org/abs/1708.01353">arXiv</a>)</td>
+    <td><a href="http://aclweb.org/anthology/W17-5307">Qian Chen et al.</a></td>
     <td><strong>74.9%</strong></td>
     <td><strong>74.9%</strong></td>
   </tr>
   <tr>
     <td>YixinNie-UNC-NLP</td>
-    <td>Yixin Nie and Mohit Bansal&nbsp; (<a href="https://arxiv.org/abs/1708.02312">arXiv</a>)</td>
+    <td><a href="http://aclweb.org/anthology/W17-5308">Yixin Nie and Mohit Bansal</a></td>
     <td><strong>74.5%</strong></td>
     <td><strong>73.5%</strong></td>
   </tr>
   <tr>
     <td>alpha</td>
-    <td>Qian Chen et al. (<a href="https://arxiv.org/abs/1708.01353">arXiv</a>)</td>
+    <td><a href="http://aclweb.org/anthology/W17-5307">Qian Chen et al.</a></td>
     <td>73.5%</td>
     <td><strong>73.6%</strong></td>
   </tr>
   <tr>
-    <td>Rivercorners (ensemble)&nbsp;</td>
-    <td>Jorge Balazs et al. (<a href="https://arxiv.org/abs/1707.03103">arXiv</a>)</td>
+    <td>Rivercorners (ensemble)</td>
+    <td><a href="http://aclweb.org/anthology/W17-5310">Jorge Balazs et al.</a></td>
     <td>72.2%</td>
     <td>72.8%</td>
   </tr>
   <tr>
     <td>Rivercorners</td>
-    <td>Jorge Balazs et al. (<a href="https://arxiv.org/abs/1707.03103">arXiv</a>)</td>
+    <td><a href="http://aclweb.org/anthology/W17-5310">Jorge Balazs et al.</a></td>
     <td>72.1%</td>
     <td>72.1%</td>
   </tr>
   <tr>
     <td>LCT-MALTA</td>
-    <td>Hoa Vu et al.</td>
+    <td><a href="http://aclweb.org/anthology/W17-5311">Hoa Vu et al.</a></td>
     <td>70.7%</td>
     <td>70.8%</td>
   </tr>
   <tr>
     <td>TALP-UPC</td>
-    <td>Han Yang et al. (<a href="https://arxiv.org/abs/1707.07469">arXiv</a>)</td>
+    <td><a href="http://aclweb.org/anthology/W17-5309">Han Yang et al.</a></td>
     <td>67.9%</td>
     <td>68.2%</td>
   </tr>
@@ -81,7 +81,7 @@ navigation_weight: 3
 
 ### <span class="c25">Recap Paper</span>
 
-<a href="https://arxiv.org/pdf/1707.08172.pdf">Competition Recap Paper</a> (preprint)
+<a href="http://aclweb.org/anthology/W17-5301">Competition Recap Paper</a>
 
 ### <span class="c25">The data</span>
 
